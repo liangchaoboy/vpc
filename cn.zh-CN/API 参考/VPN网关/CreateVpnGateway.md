@@ -21,7 +21,7 @@
  |
 |InstanceChargeType|String|否| VPN网关的计费类型，取值：
 
--   Prepay：预付费，包月购买。
+-   PREPAY：预付费，包月购买。
 
 -   Postpay：后付费，按流量计费。
 
